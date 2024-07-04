@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **flutter(dart), python , JavaScript**
 
-- 💬 Ask me about **python, HTML ,CSS ,bootstrap , R ,**
+- 💬 Ask me about **python, Power BI ,EXCEL ,SQL , R , DATA
 
 - 📫 How to reach me **kareemrefaat8008@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WP0xdt0e9oCvIqlb0pj4G97vjQOCtb5l/view?usp=sharing](https://drive.google.com/file/d/1WP0xdt0e9oCvIqlb0pj4G97vjQOCtb5l/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WP0xdt0e9oCvIqlb0pj4G97vjQOCtb5l/view?usp=sharing](https://drive.google.com/file/d/1gvEVwpSJRuuAklx6MbiRNeoG9umOi5qI/view?usp=sharing)
 
-- ⚡ Fun fact **I like Tennis**
+- ⚡ Fun fact **I like playing Tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
