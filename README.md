@@ -9,15 +9,14 @@
 
 <p align="left"> <a href="https://twitter.com/kareem_twitting" target="blank"><img src="https://img.shields.io/twitter/follow/kareem_twitting?logo=twitter&style=for-the-badge" alt="kareem_twitting" /></a> </p>
 
-- 🌱 I’m currently learning **flutter(dart), python , JavaScript**
+- 🌱 I’m currently learning **Machine learning and Advanced Analytics **
 
-- 💬 Ask me about **python, Power BI ,EXCEL ,SQL , R , DATA
+- 💬 Ask me about **python, Power BI ,EXCEL ,SQL , R , DATA Viz
 
 - 📫 How to reach me **kareemrefaat8008@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WP0xdt0e9oCvIqlb0pj4G97vjQOCtb5l/view?usp=sharing](https://drive.google.com/file/d/1gvEVwpSJRuuAklx6MbiRNeoG9umOi5qI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/141TA_tTxb2flNRXgsUQSKNuReZOjsdcQ/view?usp=sharing]
 
-- ⚡ Fun fact **I like playing Tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
